@@ -1,2 +1,8 @@
 # miniproject_1
-The miniest of projects
+
+General landing page and the first mini-project of the bootcamp.
+
+## Something
+
+* list soemthing
+
