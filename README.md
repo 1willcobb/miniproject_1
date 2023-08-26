@@ -6,3 +6,4 @@ General landing page and the first mini-project of the bootcamp.
 
 * list soemthing
 
+ajust there stuff
